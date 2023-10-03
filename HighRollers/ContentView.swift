@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  HighRollers
-//
-//  Created by Michael Welker on 2023-10-02.
-//
 
 import SwiftUI
 
