@@ -12,6 +12,7 @@
 		A2D95E2A2ACBC6D900645B86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D95E292ACBC6D900645B86 /* Assets.xcassets */; };
 		A2D95E2D2ACBC6D900645B86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D95E2C2ACBC6D900645B86 /* Preview Assets.xcassets */; };
 		A2E92E942ACC7AAF00DBBF47 /* Die.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E92E932ACC7AAF00DBBF47 /* Die.swift */; };
+		A2E92E962ACC97F600DBBF47 /* RollResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E92E952ACC97F600DBBF47 /* RollResult.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A2D95E292ACBC6D900645B86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2D95E2C2ACBC6D900645B86 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A2E92E932ACC7AAF00DBBF47 /* Die.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Die.swift; sourceTree = "<group>"; };
+		A2E92E952ACC97F600DBBF47 /* RollResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RollResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				A2D95E252ACBC6D700645B86 /* HighRollersApp.swift */,
 				A2D95E272ACBC6D700645B86 /* ContentView.swift */,
 				A2E92E932ACC7AAF00DBBF47 /* Die.swift */,
+				A2E92E952ACC97F600DBBF47 /* RollResult.swift */,
 				A2D95E292ACBC6D900645B86 /* Assets.xcassets */,
 				A2D95E2B2ACBC6D900645B86 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				A2D95E282ACBC6D700645B86 /* ContentView.swift in Sources */,
 				A2D95E262ACBC6D700645B86 /* HighRollersApp.swift in Sources */,
 				A2E92E942ACC7AAF00DBBF47 /* Die.swift in Sources */,
+				A2E92E962ACC97F600DBBF47 /* RollResult.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
